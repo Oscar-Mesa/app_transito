@@ -22,6 +22,7 @@ public class app_transito {
                 cls_opc_conductores objCls_opc_conductores = new cls_opc_conductores(int_posiciones);
                 objCls_opc_conductores.fnt_menu_conductores();
                 int_posiciones +=1;
+                
     }
         
     }
